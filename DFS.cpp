@@ -7,6 +7,7 @@ using namespace std;
 int main(){
   int cost[10][10],i,j,k,n,top,e,v,stk[20],visit[10],visited[10];
   cout<<"Enter the number of vertices in the Graph:\n";
+  int n;
   cout<<"edge\n";
   cin>>e;
   cout<<"start and the end vertex of the edge\n";
